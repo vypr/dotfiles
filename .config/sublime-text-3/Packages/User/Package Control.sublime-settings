@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"FileIcons",
+		"Jedi - Python autocompletion",
+		"Package Control",
+		"Python 3",
+		"SideBarEnhancements",
+		"Solarized Color Scheme",
+		"SublimeLinter",
+		"SublimeLinter-pycodestyle",
+		"Terminality",
+		"TerminalView",
+		"Theme - Arc",
+		"Theme - Soda SolarizedDark",
+		"Theme - Solarized Flat",
+		"Theme - Solarized Space"
+	]
+}

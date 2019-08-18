@@ -1,0 +1,11 @@
+{
+	"auto_complete": true,
+    "auto_complete_triggers": [{"selector": "source", "characters": "."}],
+    "hide_snippets_on_completion": true,
+    "complete_all_parameters": true,
+    "suppress_word_suggestions": true,
+    "auto_complete_commit_on_tab": false,
+    "extensions": [
+    	"py"
+    ]
+}
